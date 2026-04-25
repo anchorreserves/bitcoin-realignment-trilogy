@@ -15,8 +15,7 @@ Living document tracking real-world neutralization of fiat mechanisms:
 [Appendix – Quarterly Empirical Log](appendix-quarterly-empirical-log.md)
 
 ## License
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
-You are free to share and adapt the material with appropriate credit to John N Quinby.
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC-BY 4.0)](LICENSE).
 
 ## Canonical Academic Record
 Original SSRN preprints (March 2026):  
