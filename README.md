@@ -18,10 +18,13 @@ Living document tracking real-world neutralization of fiat mechanisms:
 This work is licensed under a [Creative Commons Attribution 4.0 International License (CC-BY 4.0)](LICENSE).
 
 ## Canonical Academic Record
-Original SSRN preprints (March 2026):  
-- Abstract #6332700  
-- Abstract #6355099  
-- Abstract #6368619  
+- Original SSRN preprints (March 2026): Abstracts #6332700, #6355099, #6368619  
+- Permanent Zenodo archive (DOI): [10.5281/zenodo.19775899](https://doi.org/10.5281/zenodo.19775899)
+
+## How to Cite
+Quinby, J. N. (2026). *The Realignment Trilogy*. GitHub: bitcoin-realignment-trilogy.  
+Zenodo: https://doi.org/10.5281/zenodo.19775899  
+CC-BY 4.0 International License.
 
 ## SHA256 Hashes (for authenticity verification)
 See `hashes.txt` in this repository.
