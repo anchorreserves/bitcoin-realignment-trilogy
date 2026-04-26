@@ -274,7 +274,7 @@ These trends demonstrate that the model’s closed-loop architecture has been an
 | 1993-2019           | 10%                 | ~25% to 30.4%                       | 5-7%                       | Fed DFA / FRED M2SL     |
 | March 2020-Jan 2026 | 0%                  | 30.4% to 31.7% (Q3 2025)            | ~10% (peak 26% in 2020)    | Fed DFA / FRED M2SL     |
 
-#### This historical continuity reinforces the model’s central claim: stratification arises from the persistent interaction of institutional rules rather than any single regulatory shock. The post-2020 period therefore represents an intensification of long-standing dynamics rather than a structural break.
+This historical continuity reinforces the model’s central claim: stratification arises from the persistent interaction of institutional rules rather than any single regulatory shock. The post-2020 period therefore represents an intensification of long-standing dynamics rather than a structural break.
 
 ## 8. Conclusion
 
@@ -284,4 +284,68 @@ From a policy standpoint, the framework carries several implications. Reinstatem
 
 These insights draw on more than twenty-five years of experience in traditional banking, where I observed the practical operation of fractional-reserve lending and tax-driven asset strategies firsthand, as well as more than five years of intensive study of Bitcoin as a monetary alternative. This background has informed the model’s emphasis on the closed-loop interaction between banking institutions and fiscal incentives.
 
----
+## References
+
+Alden, L. 2022. Post-2020 Monetary Policy and Banking. Lyn Alden Investment Strategy.
+
+Alzahrani, A. 2020. Monetary Systems and Inequality: Evidence from Cross-Country Analysis. International Review of Economics 67(4): 521-548.
+
+Bagchi, S., Curran, M., and Fagerstrom, M. J. 2019. Monetary growth and wealth inequality. Economics Letters 182: 23-25.
+
+Batchelder, L., and Kamin, D. 2022. Taxing the Rich: Issues and Options. Aspen Institute Economic Strategy Group.
+
+Beckworth, D. 2021. Money, Monetary Policy, and Fiscal Policy. Mercatus Center.
+
+Board of Governors of the Federal Reserve System. 2020. “Reserve Requirements.” Federal Register 85 FR 16526 (March 26, 2020).
+
+Brookings Institution. 2024. AI, Technology, and Rising Inequality. Brookings Economic Studies Series.
+
+Cantillon, R. 1755. Essai sur la Nature du Commerce en Général. Higgs edition. Macmillan.
+
+Çerçil, M. 2025. Quantitative Easing and Wealth Distribution: International Evidence. Economic Policy 40(1): 78-112.
+
+Chetty, R., Friedman, J. N., Hendren, N., Stepner, M., and Opportunity Insights Team. 2020. The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data. NBER Working Paper 27431.
+
+Cleveland Federal Reserve. 2025. Inflation Inequality in the Post-Pandemic Era. Federal Reserve Bank of Cleveland Economic Commentary.
+
+De Luigi, D. 2023. Monetary Policy Shocks and Wealth Inequality in the Euro Area. European Central Bank Working Paper Series No. 2874.
+
+Dorobat, C. E. 2019. Cantillon Effects in International Trade. PhD Thesis, Université d'Angers.
+
+Duffie, D., and Krishnamurthy, A. 2016. Pass-Through Efficiency in the Fed's New Monetary Policy Setting. Brookings Papers on Economic Activity.
+
+Federal Reserve. 2021-2025. Distributional Financial Accounts. Board of Governors of the Federal Reserve System.
+
+Friedman, M. 1968. “The Role of Monetary Policy.” American Economic Review 58(1): 1–17.
+
+Garcia, F., and Panetti, E. 2024. Wealth Inequality, Systemic Financial Fragility and Government Intervention. Banco de Portugal Working Paper.
+
+Hudson, M. 2012. The Bubble and Beyond. ISLET.
+
+Hülsmann, J. G. 2008. The Ethics of Money Production. Ludwig von Mises Institute.
+
+Keen, S. 2017. Can We Avoid Another Financial Crisis? Polity Press.
+
+Kelton, S. 2020. The Deficit Myth. PublicAffairs.
+
+Koch, J. A. 2026. The impact of eliminating reserve requirements on US banks' lending, liquidity, and profitability during COVID-19. Review of Financial Economics 44: e70033.
+
+Lucas, R. E. 1972. Expectations and the Neutrality of Money. Journal of Economic Theory 4(2): 103-124.
+
+McCallum, B. T. 2004. “Monetary Policy in Economies with Little or No Money.” NBER Working Paper No. 10571.
+
+Mises, L. v. 1949. Human Action. Yale University Press.
+
+Oxfam International. 2025. Inequality and Technology: Global Trends Report.
+
+Rothbard, M. N. 1962. Man, Economy, and State. Van Nostrand.
+
+Saez, E., and Zucman, G. 2019. The Triumph of Injustice. W.W. Norton.
+
+Selgin, G. 2020. The Menace of Fiscal QE. Cato Institute.
+
+Stiglitz, J. E. 2020. Conquering the Great Divide. Finance & Development, IMF.
+
+Tica, J., Globan, T., and Arčabić, V. 2022. Managing the impact of globalization and technology on inequality. Economic Research-Ekonomska Istraživanja 35: 1035-1060.
+
+U.S. Bureau of Labor Statistics. 2024. Consumer Expenditure Survey: Inflation by Income Group. U.S. Department of Labor.
