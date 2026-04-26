@@ -6,9 +6,11 @@ by **John N Quinby**
 A unified Bitcoin-native economic framework that exposes the structural mechanisms of fiat monetary stratification and demonstrates how Bitcoin’s protocol systematically dismantles them — rendering Keynesian demand-management tools obsolete at scale.
 
 ## Reading Order (Author’s Recommendation)
-1. [The Fiat Stratification Feedback Model (PDF)](01-fiat-stratification-feedback-model.pdf)  
-2. [The Bitcoin Dismantlement Framework (PDF)](02-bitcoin-dismantlement-framework.pdf)  
-3. [Structural Obsolescence of Keynesian Monetary Policy (Capstone) (PDF)](03-structural-obsolescence-keynesian-policy.pdf)
+1. [The Fiat Stratification Feedback Model (Markdown)](01-fiat-stratification-feedback-model.md)  
+2. [The Bitcoin Dismantlement Framework (Markdown)](02-bitcoin-dismantlement-framework.md)  
+3. [Structural Obsolescence of Keynesian Monetary Policy (Capstone) (Markdown)](03-structural-obsolescence-keynesian-policy.md)
+
+**PDF versions** are also available in the repository for reference.
 
 ## Quarterly Empirical Appendix
 Living document tracking real-world neutralization of fiat mechanisms:  
