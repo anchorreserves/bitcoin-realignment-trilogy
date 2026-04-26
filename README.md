@@ -29,9 +29,6 @@ CC-BY 4.0 International License.
 ## SHA256 Hashes (for authenticity verification)
 See `hashes.txt` in this repository.
 
-## How to Cite
-Quinby, J. N. (2026). *The Realignment Trilogy*. GitHub: bitcoin-realignment-trilogy (Zenodo DOI forthcoming).
-
 ---
 
 **Version History** – see [CHANGELOG.md](CHANGELOG.md)
