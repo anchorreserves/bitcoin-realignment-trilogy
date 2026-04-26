@@ -20,7 +20,7 @@ Transitional challenges, including volatility, scalability constraints, regulato
 
 **Keywords:** Bitcoin, fiat stratification, feedback loops, Cantillon Effect, K-shaped divergence, buy-borrow-die, fixed supply, proof-of-work, monetary neutrality, Lightning Network, sound money, wealth realignment, wealth inequality, monetary policy transmission
 
-**Figure 1. Original Conceptual Sketch – Bitcoin Realignment Cycle.** This diagram visualizes the Bitcoin Realignment Cycle as a single reinforcing circular loop. Productivity and deflationary costs create a positive cycle in which every participant (regardless of starting stratum) reinforces everyone else’s real wealth, breaking the negative loop entirely.
+**Figure 1. Original Conceptual Sketch – Bitcoin Realignment Cycle (Circular Model).** This diagram visualizes the Bitcoin Realignment Cycle as a single reinforcing circular loop. Productivity and deflationary costs create a positive cycle in which every participant (regardless of starting stratum) reinforces everyone else’s real wealth, breaking the negative loop entirely.
 
 Original synthesis by John Quinby, March 2026.
 
@@ -140,7 +140,7 @@ In the context of the original model, this dynamic further erodes the closed-loo
 
 The pseudonymous character of Bitcoin ownership, combined with true self-custody via private keys, introduces practical enforcement challenges for tax authorities. Unlike fiat assets held through regulated intermediaries, Bitcoin holdings generate no automatic third-party reporting, and private-key control prevents unilateral seizure or liens without the holder’s cooperation. This reduces the enforceability of capital-gains realization events and collateral-based strategies that previously reinforced perpetual debt rollover. Austrian analyses of tax minimalism underscore how such voluntary compliance regimes shift power toward individual monetary sovereignty (Rothbard 1973). Mainstream responses, including expanded broker reporting rules and international information-exchange agreements, represent ongoing attempts to restore visibility, yet the bearer nature of Bitcoin limits their effectiveness at scale. On-chain data and adoption patterns indicate that self-custody rates continue to rise (Chainalysis 2023–2025). Consequently, the closed-loop linkage between tax distortions and fractional-reserve credit expansion that stabilized the original model is further eroded. Data on the long-run fiscal impact remain limited, as the phenomenon is still in its early stages.
 
-**Figure 5. Tax Incentive Realignment under Bitcoin.** This diagram contrasts the fiat asset holders pathway (left), in which tax distortions create a stabilizing glue that reinforces the dual feedback loops through bank credit expansion, with the Bitcoin pathway (right). Here, self-custody, bearer mobility, and the absence of new unit creation weaken the closed-loop dynamics and introduce jurisdictional competition, thereby realigning incentives toward voluntary exchange. 
+**Figure 5. Tax Incentive Realignment under Bitcoin.** This diagram contrasts the fiat asset holders pathway (left), in which tax distortions create a stabilizing glue that reinforces the dual feedback loops through bank credit expansion, with the Bitcoin pathway (right). Here, self-custody, bearer mobility, and the absence of new unit creation weaken the closed-loop dynamics and introduce jurisdictional competition, thereby realigning incentives toward voluntary exchange.
 
 Original synthesis by John Quinby, March 2026.
 
@@ -164,7 +164,7 @@ Once both opposing loops lose their structural fuel, the familiar K-shaped diver
 
 Bitcoin's fixed-supply protocol also creates game-theoretic incentives that strengthen this unified reinforcement cycle. Each participant faces a coordination problem in which individual choices depend on the expected actions of others. Early adoption takes place through voluntary calculation of Bitcoin's properties as a form of sound money (Rothbard 1962; Hayek 1976). As institutional participation and certain nation-state experiments grow, the relative cost of remaining fully exposed to fiat assets rises for those who stay outside of the Bitcoin network. Reports from Chainalysis covering 2023 to 2025 document this pattern of gradual uptake followed by faster expansion once a critical threshold is crossed. The process is consistent with Austrian accounts of spontaneous monetary order (Menger 1892; Hayek 1976). At the same time, researchers from other traditions point to regulatory barriers and short-term price volatility as factors that can delay or modify this trajectory. Long-term data on these coordination effects are still developing.
 
-**Figure 6. The Bitcoin Realignment Framework: Dismantlement through Vortex Convergence.** This diagram inverts the dual self-reinforcing feedback loops and K-shaped divergence of the original model (Quinby 2026, Figure 8). The faded Fiat Stratification K-structure and opposing loops on the left are drawn into a bright Bitcoin-orange vortex representing the protocol’s fixed supply, proof-of-work issuance, and bearer-asset design. The vortex dismantles these mechanisms and releases uniform positive reinforcement on the right, where productivity and sound money raise real wealth across all strata. The outer virtuous cycle illustrates adoption-driven convergence once critical mass is reached. 
+**Figure 6. The Bitcoin Realignment Framework: Dismantlement through Vortex Convergence.** This diagram inverts the dual self-reinforcing feedback loops and K-shaped divergence of the original model (Quinby 2026, Figure 8). The faded Fiat Stratification K-structure and opposing loops on the left are drawn into a bright Bitcoin-orange vortex representing the protocol’s fixed supply, proof-of-work issuance, and bearer-asset design. The vortex dismantles these mechanisms and releases uniform positive reinforcement on the right, where productivity and sound money raise real wealth across all strata. The outer virtuous cycle illustrates adoption-driven convergence once critical mass is reached.
 
 Original synthesis by John Quinby, March 2026.
 
@@ -172,6 +172,104 @@ Original synthesis by John Quinby, March 2026.
 
 The Bitcoin Dismantlement Framework demonstrates how the protocol’s fixed supply, proof-of-work issuance, and bearer-asset design systematically neutralize the mechanisms of the Fiat Stratification Feedback Model (Quinby 2026). Several counterarguments and empirical limitations nevertheless deserve explicit attention. These points do not undermine the theoretical structure but clarify the boundaries of current evidence and the transitional nature of adoption.
 
-*(The remainder of the paper continues exactly as in your original document – all text is preserved.)*
+### 6.1 Volatility and Short-Term Price Risk
 
----
+Mainstream analyses often highlight Bitcoin’s price volatility as a barrier to its role as sound money. Large swings in exchange rates can temporarily disrupt the stable purchasing-power preservation described in Sections 2 and 3. Austrian theory recognizes that any new monetary asset typically passes through an adoption phase in which market discovery naturally produces periods of volatility. Historical data from Glassnode and Chainalysis show that volatility has declined as market capitalization has grown and institutional participation has increased. Federal Reserve DFA reports and studies such as Krugman (2013) continue to emphasize this risk as a reason for skepticism. The framework treats volatility as a transitional phenomenon rather than a permanent structural flaw.
+
+### 6.2 Scalability and Mining Geography Concerns
+
+Questions persist about whether the Bitcoin network can scale to global transaction volumes without sacrificing its decentralized character. The base layer processes roughly seven transactions per second, and mining power remains concentrated in certain geographic regions. The Lightning Network and other layer-two solutions have already expanded practical capacity while preserving the core protocol’s scarcity rule. Austrian perspectives view these developments as emergent market responses rather than central planning. Mainstream counterpoints stress that full global scalability remains unproven and that energy use tied to proof-of-work raises environmental objections. Reports indicate that Bitcoin mining tends to locate in regions offering lower-cost energy sources, including surplus and renewable energy in some cases. These issues, including the comparative energy consumption of the Bitcoin network versus the traditional financial system, constitute acknowledged data gaps that future adoption will test.
+
+### 6.3 Regulatory and Adoption Barriers
+
+Responses from nation-states differ markedly across jurisdictions. Some jurisdictions have granted Bitcoin legal-tender status while others have introduced reporting requirements or outright restrictions. Such regulatory friction can slow the game-theoretic momentum outlined in Section 5.4. Chainalysis reports from 2023 to 2025 document sustained growth in adoption despite these barriers, particularly in high-inflation economies. The framework recognizes that regulatory risk forms part of the transitional environment and does not alter the protocol’s internal incentive structure. Empirical observation of hybrid fiat-Bitcoin systems remains limited, and long-term fiscal impacts on tax bases are still developing.
+
+### 6.4 Early-Adopter Concentration and Transitional Dynamics
+
+Early distribution of Bitcoin shows noticeable concentration among initial participants, a pattern some observers link to the stratification this framework seeks to dismantle. Austrian analysis frames this pattern as a standard feature of any new monetary goods entering circulation through voluntary exchange. Money historically evolves through three stages: first as a store of value, then as a unit of account, and finally as a medium of exchange. Bitcoin has established itself primarily as a store of value. It has only recently begun to demonstrate characteristics of a medium of exchange through developments such as payment integrations in Cash App and Block infrastructure. Progress toward unit-of-account status remains limited, consistent with the early stage of adoption. Over time the fixed supply and bearer mobility diffuse holdings more broadly, as evidenced by rising self-custody rates and institutional custody inflows. The original model’s dual feedback loops persist in fiat systems regardless of early-adopter patterns. The Bitcoin Dismantlement Framework therefore positions early concentration as a temporary legacy of fiat-era wealth distribution rather than an inherent protocol defect.
+
+### 6.5 Institutional Collateral and Rehypothecation Risks
+
+Institutions accepting spot Bitcoin ETFs or custodied Bitcoin as collateral for fiat-denominated loans introduce rehypothecation risks. Such practices, observed in 2025–2026 banking and prime-brokerage arrangements, can temporarily recreate elements of fractional-reserve expansion and uneven distribution on the fiat side. Historical experience with gold-backed currencies illustrates a related mechanism. Gold served as the ultimate backing asset, yet its physical nature led to centralization in vaults and repeated instances of confiscation or rehypothecation despite paper claims. Bitcoin operates differently in a fundamental respect because ownership ultimately depends on control of the private key alone. The immutable blockchain prevents any party from creating additional claims against the same unit. Holders can move funds instantly across borders without permission or physical transport. Any loss of trust in custodial arrangements therefore leaves individuals with an immediate, costless exit to self-custody. This mechanism enforces market discipline, favors verifiable full-reserve practices, and promotes free-market competition without reliance on bailouts or central intervention.
+
+Taken together, these counterarguments and gaps highlight the distinction between the protocol’s theoretical design and its current stage of adoption. The framework maintains that the mechanisms of dismantlement operate at the protocol level even while transitional frictions remain observable. Continued empirical monitoring through on-chain analytics and comparative studies will clarify the speed and completeness of realignment.
+
+## 7. Empirical Evidence
+
+The Bitcoin Dismantlement Framework rests on protocol-level mechanisms that can be subjected to empirical scrutiny as adoption matures. This section outlines testable hypotheses, a proposed methodology, and data sources for future validation, mirroring the empirical approach taken in the antecedent model (Quinby 2026). Preliminary descriptive patterns from on-chain analytics already suggest directional support, but formal testing remains for subsequent research.
+
+### 7.1 Empirical Test Plan
+
+#### Testable Hypotheses
+
+H1: Jurisdictions and cohorts with higher Bitcoin adoption exhibit reduced K-shaped divergence (measured by wealth-share mobility and Gini coefficients) relative to fiat-dominant controls.  
+H2: Bitcoin-collateralized lending volumes remain constrained by actual holdings rather than multiplied claims, producing lower effective leverage ratios than comparable fiat assets.  
+H3: Post-adoption, tax-realization events increase relative to debt-rollover strategies in self-custodied Bitcoin holdings.  
+H4: Network effects (adoption → security → value) generate uniform real-wealth gains across income strata, observable in cross-border remittance and savings data from high-inflation economies.
+
+#### Methodology
+
+1. Pre-post and difference-in-differences designs around major adoption thresholds (e.g., El Salvador 2021, institutional ETF inflows 2024–2026).  
+2. Panel regressions on quarterly data with fixed effects for country/income group.  
+3. Granger causality and vector autoregression (VAR) tests to examine feedback between adoption metrics and wealth-distribution variables.  
+4. On-chain cohort analysis (Glassnode, Chainalysis) to distinguish self-custody versus custodial behavior.
+
+#### Data Sources
+
+* On-chain: Glassnode, Chainalysis, Cambridge Centre for Alternative Finance.  
+* Macro: Federal Reserve DFA reports, World Bank, national statistical offices in high-adoption countries.  
+* Lending: DeFi protocol dashboards (Aave, Compound) and institutional custody filings (2024–2026).
+
+### 7.2 Preliminary Descriptive Patterns
+
+On-chain metrics already show rising self-custody rates and declining average leverage in Bitcoin lending markets relative to fiat collateral. Wealth-share data from early-adopter economies indicate preliminary signs of convergence rather than continued K-shaped divergence. These patterns align directionally with the theoretical realignment yet remain strictly descriptive; they are subject to selection effects, short observation periods, and potential confounding macroeconomic factors. Formal econometric controls and longer time-series data are required before any firmer conclusions can be drawn.
+
+### 7.3 Historical and Comparative Continuity
+
+Historical episodes of sound money, particularly gold-standard periods, provide useful comparison points where stratification pressures appear less pronounced. Future work could extend the cross-country analysis in Alzahrani (2020) to include Bitcoin-adoption intensity as a variable. Such extensions would test whether the protocol’s fixed-supply rule produces the predicted flattening of wealth distribution once critical mass is reached.
+
+## 8. Conclusion
+
+The Bitcoin Dismantlement Framework offers a direct theoretical counterpoint to the Fiat Stratification Feedback Model (Quinby 2026). The preceding analysis has examined how Bitcoin’s fixed supply of 21 million units, decentralized issuance through proof-of-work, and bearer-asset design systematically constrain each of the four mechanisms that sustain self-reinforcing wealth stratification in contemporary fiat systems. The integrated realignment framework shows these properties working in combination to replace the diverging K-shaped trajectories and opposing loops with a single positive reinforcement cycle grounded in productivity, voluntary exchange, and sound money (see Figure 6).
+
+Early empirical patterns from on-chain analytics, adoption trends in high-inflation economies, Bitcoin-based lending protocols, and newer payment integrations already lend support to the theoretical mechanisms, even if they remain at an initial stage. The framework acknowledges transitional challenges, including volatility, scalability constraints, regulatory uncertainty, early-adopter concentration, and institutional rehypothecation risks. These elements do not alter the protocol’s internal logic but illustrate the practical frictions that accompany any shift toward sound-money principles. Continued monitoring through verifiable data sources will clarify the pace and completeness of the realignment process.
+
+The Bitcoin Dismantlement Framework does not claim to eliminate all sources of economic inequality. It demonstrates that Bitcoin’s protocol-level design enforces monetary non-neutrality in the opposite direction from fiat systems. By removing discretionary intervention and institutional privilege, it promotes outcomes driven by individual choice and productive contribution. The paper positions this framework as an evidence-based extension of the original 2026 model, inviting further research into monetary theory, network effects, and the comparative performance of sound-money regimes. In this way the analysis contributes to the ongoing scholarly dialogue on the relationship between monetary architecture and wealth distribution.
+
+## References
+
+Alzahrani, A. 2020. Monetary Systems and Inequality: Evidence from Cross-Country Analysis. *International Review of Economics* 67(4): 521–548.
+
+Cambridge Centre for Alternative Finance. 2023–2025. Global Cryptoasset Benchmarking Study and Adoption Reports.
+
+Chainalysis. 2023–2025. Reports on Bitcoin Adoption, Capital Flows, and Institutional Inflows.
+
+Chetty, R., Friedman, J. N., Hendren, N., Stepner, M., and Opportunity Insights Team. 2020. The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data. NBER Working Paper 27431.
+
+Federal Reserve. 2021–2025. Distributional Financial Accounts. Board of Governors of the Federal Reserve System.
+
+Glassnode. 2023–2026. On-Chain Analytics Metrics (self-custody rates, leverage ratios, and adoption cohorts).
+
+Hayek, F. A. 1976. *Denationalisation of Money*. Institute of Economic Affairs.
+
+Hülsmann, J. G. 2008. The Ethics of Money Production. Ludwig von Mises Institute.
+
+Koch, J. A. 2026. The Impact of Eliminating Reserve Requirements on US Banks’ Lending, Liquidity, and Profitability during COVID-19. *Review of Financial Economics* 44: e70033.
+
+Krugman, P. 2013. Bitcoin Is Evil. *New York Times*, December 28.
+
+Menger, C. 1892. “On the Origins of Money.” Economic Journal 2: 239–255.
+
+Mises, L. v. 1949. *Human Action: A Treatise on Economics*. Yale University Press.
+
+Quinby, J. 2026. The Fiat Stratification Feedback Model: A Unified Framework of Fractional Reserve Lending, Cantillon Distribution, Tax Incentives, and K-Shaped Polarization. SSRN Preprint.
+
+Rothbard, M. N. 1962. *Man, Economy, and State*. Van Nostrand.
+
+Rothbard, M. N. 1963. *The Ethics of Money Production*. Ludwig von Mises Institute.
+
+Rothbard, M. N. 1973. For a New Liberty: The Libertarian Manifesto. Macmillan.
+
+Saez, E., and Zucman, G. 2019. *The Triumph of Injustice: How the Rich Dodge Taxes and How to Make Them Pay*. W. W. Norton.
+
+Selgin, G. 2020. The Menace of Fiscal QE. Cato Institute Policy Analysis.
