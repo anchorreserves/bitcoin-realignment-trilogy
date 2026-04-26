@@ -80,7 +80,7 @@ The Bitcoin protocol enforces a hardcoded, predictable issuance schedule through
 
 ### 2.2 Removal of Temporal Priority and Loss of Aggregate Demand Stabilization
 
-Because new units enter the system through open competition rather than privileged channels, no first-mover advantage exists for any institution. The absence of temporal priority severs the Cantillon sequencing that previously allowed stimulus to reach financial institutions and asset markets ahead of wage earners. As a result, Keynesian aggregate demand stabilization loses its structural foundation: discretionary monetary expansions can no longer generate the uneven purchasing-power effects that amplify multipliers and sustain Phillips-curve assumptions.
+Because new units enter the system through open competition rather than privileged channels, no first-mover advantage exists for any institution. The absence of temporal priority severs the Cantillon sequencing that previously allowed stimulus to reach financial institutions and asset markets ahead of wage earners. As a result, Keynesian aggregate demand stabilization loses its structural foundation: discretionary monetary expansions can no longer generate the uneven purchasing-power effects that amplify multipliers and sustain Phillips-curve assumptions. The loss of sequencing advantage registers first in policy terms, yet a vivid contrast brings the physical reality of Cantillon severance into sharper relief.
 
 **Figure 2. Decentralized Proof-of-Work Issuance: Removal of Temporal Priority.** The diagram contrasts privileged early recipients under fiat Cantillon flows with the uniform, competitive distribution of block rewards across global miners, thereby neutralizing discretionary stimulus transmission.
 
@@ -144,7 +144,7 @@ Original synthesis by John Quinby, March 2026.
 
 ### 5.2 Collapse of Keynesian Transmission Channels
 
-With these mechanisms neutralized, central authorities lose the capacity to influence aggregate demand through either monetary or fiscal means. Liquidity preference can no longer be managed. Monetary and fiscal multipliers lose their amplifying power. Aggregate demand stabilization via discretionary stimulus becomes structurally constrained. The Phillips-curve assumption of a stable inflation-unemployment trade-off collapses once real wages can no longer be eroded through monetary expansion. The transmission system that once enabled policymakers to manipulate real economic variables is rendered inoperable.
+With these mechanisms neutralized, central authorities lose the capacity to influence aggregate demand through either monetary or fiscal means. Liquidity preference can no longer be offset through open-market operations. Monetary and fiscal multipliers lose their amplifying power. Aggregate demand stabilization via discretionary stimulus becomes structurally constrained. The Phillips-curve assumption of a stable inflation-unemployment trade-off collapses once real wages can no longer be eroded through monetary expansion. The transmission system that once enabled policymakers to manipulate real economic variables is rendered inoperable.
 
 ### 5.3 The Disablement of the K-Structure
 
@@ -174,4 +174,74 @@ This closed-loop integration constitutes the trilogy’s central contribution to
 
 Repeated attempts by governments and powerful institutions to contain or suppress Bitcoin have consistently failed and often increased its global recognition and resilience. Destroying Bitcoin today would be more akin to attempting to eradicate the English language than to deleting a piece of software; once the network of users and ideas reaches critical mass, the protocol becomes self-sustaining and impossible to extinguish. Even amid wars and political upheaval, capital continues to flow into the protocol as individuals seek a portable and seizure-resistant store of value. In this way Bitcoin steadily weakens Keynesian ideology, block by block, every ten minutes, with the addition of each new immutable record to the ledger. The result is neither prediction nor prescription. It is a precise mapping of institutional change. As Bitcoin continues its quiet advance, in precisely the sly roundabout way Hayek envisioned, the monetary architecture that once made Keynesian intervention both possible and necessary, now finds itself displaced by design.
 
----
+# Appendix: Testing Framework for the Realignment Trilogy
+
+## Praxeological Baseline and Comparative Evaluation Against Keynesian Monetary Policy
+
+This appendix presents four targeted testing protocols designed to pressure the directional predictions advanced across the Realignment Trilogy. By establishing a neutral praxeological baseline and then applying three distinct comparative lenses, the material equips future researchers with concrete, executable methods to evaluate whether Bitcoin’s protocol properties do in fact render Keynesian transmission mechanisms structurally inoperable once adoption thresholds are reached. The protocols remain confined to supplementary analysis and introduce no changes to the five-section core of the capstone itself, thereby preserving the closed-loop parallelism established in the Bitcoin Dismantlement Framework. Readers seeking only the theoretical integration may proceed without reference to this appendix; those interested in empirical pressure-testing will find here the operational bridge between abstract mechanism mappings and observable outcomes.
+
+## A.1 Baseline Praxeological Test: Framing the Starting Points Through Logic and Human Action
+
+This baseline test deliberately avoids both empirical data and direct comparison between the two models. It relies instead on pure deduction from the fundamental elements of human action. Every individual faces scarcity, time preference, uncertainty, and the necessity of coordinating plans over time. In a monetary order built upon elastic credit creation and discretionary expansion, these conditions create systematic distortions. Price signals lose clarity. Decisions about saving and investment must account for ongoing risk of dilution. Those closest to the creation of new money gain consistent advantage. In contrast, a monetary protocol defined by a fixed supply, decentralized proof-of-work issuance, and true bearer asset sovereignty removes these distortions entirely at the root. Lending can occur only from actual prior savings. Time preference operates on undistorted information. Coordination takes place through voluntary exchange alone. By following the logical implications of each system for capital allocation and wealth formation, the test isolates the core differences in their starting conditions. The approach gains strength from its independence from specific historical events. Its limitation is that it offers no quantitative validation at this stage. Even so, it creates the necessary axiomatic foundation for the three comparative tests that follow.
+
+## A.2 Comparative Test 1: Transmission-Mechanism Integrity Analysis
+
+This first comparative test evaluates whether the transmission channels of Keynesian monetary policy remain functional once Bitcoin adoption reaches thresholds that enforce full-reserve lending and an immutable issuance schedule set by proof-of-work. The method relies on qualitative mapping and basic accounting identities. Researchers compare the expansion of broad money relative to the monetary base in fiat systems against the rigid ceiling imposed by Bitcoin’s protocol. They then examine the portion of lending that originates solely from prior savings. Key variables include the ratio of broad money growth to base money growth and the share of lending conducted under full-reserve protocols. The test gains clarity from its use of transparent accounting relationships. Its main limitation appears during transitional hybrid regimes. Sustained effectiveness of traditional liquidity tools would pressure the trilogy. Contraction of multiplier effects and discretionary control would support the claim of structural obsolescence.
+
+## A.3 Comparative Test 2: Historical Quasi-Experimental Episode Review
+
+This second comparative test treats documented shifts between monetary regimes as quasi-experiments. It examines four major historical cases: the 1923 German stabilization following hyperinflation, the 1946 Hungarian currency reset, Ecuador’s official dollarization in 2000, and selected periods under the classical gold standard prior to 1914. In each episode the analysis tracks changes in wealth distribution patterns, lending discipline, and the practical reach of discretionary demand management. Researchers then compare these observed outcomes with the directional predictions of the Realignment Trilogy and those of standard Keynesian models. The primary data sources consist of Bresciani-Turroni (1937), Pfleiderer (1979), and Federal Reserve historical distributional records. This approach draws strength from its grounding in actual regime changes. Its central limitation stems from the challenge of separating pure monetary effects from simultaneous political, technological, and demographic influences. Evidence of convergence across economic strata together with declining effectiveness of traditional policy tools would support the trilogy. Continued K-shaped divergence and sustained multiplier performance would challenge its claims of structural obsolescence.
+
+## A.4 Comparative Test 3: Forward-Looking Metric-Tracking Protocol
+
+This third comparative test establishes a structured protocol for tracking observable indicators as Bitcoin adoption advances. It focuses on four primary metrics: trends in Gini coefficients segmented by asset ownership levels, volumes of lending conducted strictly under full-reserve protocols, central-bank balance-sheet size expressed as a share of GDP, and measures of K-shaped divergence taken from distributional financial accounts. Researchers draw data primarily from the Federal Reserve Distributional Financial Accounts, Glassnode on-chain analytics, and Chainalysis reports. Annual or biennial reporting tables combined with updated realignment-cycle diagrams provide visual tracking of directional shifts. This method gains strength from its cumulative and forward-looking design. Its principal limitation involves the long time horizons required and complications arising from transitional hybrid regimes. Evidence of sustained convergence across economic strata together with reduced effectiveness of discretionary policy tools would support the trilogy. Continued polarization and sustained multiplier performance would challenge the claim of structural obsolescence.
+
+## A.5 Note on Methodological Context
+
+Comparisons of this integrated scope between Keynesian and Austrian frameworks appear infrequently in the monetary economics literature. Most contributions remain either purely theoretical or limited to isolated empirical episodes. Full closed-loop models that link specific mechanisms to protocol-level neutralizations and supply executable falsification protocols are exceptional. The closest parallels arise in landmark regime-shift analyses such as Friedman and Schwartz’s Monetary History or Hayek’s Denationalisation of Money, where theoretical architecture meets sustained empirical pressure. The present framework therefore belongs to a thin but established tradition of mechanism-driven regime comparisons rather than the more common narrow exchanges. Future empirical outcomes against the thresholds defined in A.4 will ultimately clarify the long-run trajectory.
+
+Quarterly empirical tracking of these four tests occurs through the [Realignment Trilogy Quarterly Log](https://1drv.ms/f/c/014eb79003680d95/IgCgOEIykvjoR6HERb5joIY3AdH9lTNrX_6WK9wOzXw_AB8?e=mW2rc6), with updates issued on the 15th of March, June, September, and December. A companion document containing the complete four-test protocol and instructions is available via the living appendix link above.
+
+## References
+
+Alden, Lynn. 2023. *Broken Money: Why Our Financial System Is Failing Us and How We Can Make It Work*.
+
+Ammous, Saifedean. 2018. *The Bitcoin Standard: The Decentralized Alternative to Central Banking*. Hoboken, NJ: Wiley.
+
+Antonopoulos, Andreas M. 2017. *Mastering Bitcoin: Programming the Open Blockchain*. 2nd ed. Sebastopol, CA: O’Reilly Media.
+
+Bresciani-Turroni, Costantino. 1937. *The Economics of Inflation: A Study of Currency Depreciation in Post-War Germany*. London: George Allen & Unwin.
+
+Brunell, Natalie. 2024. “The Protocol That Ends Inflationary Wage Erosion.” Interview and analysis series, Bitcoin Magazine / What Bitcoin Did, December.
+
+Cantillon, Richard. 1755. *Essai sur la Nature du Commerce en Général*. London: Fletcher Gyles.
+
+Chainalysis. 2025. *The Chainalysis Crypto Report 2025*. New York: Chainalysis.
+
+Federal Reserve Board. 2021–2025. *Distributional Financial Accounts of the United States*. Board of Governors of the Federal Reserve System.
+
+Glassnode. 2024. *On-Chain Analytics Platform*. Accessed March 2026.
+
+Hayek, Friedrich A. 1976. *The Denationalisation of Money*. London: Institute of Economic Affairs.
+
+Hicks, John R. 1937. “Mr. Keynes and the ‘Classics’: A Suggested Interpretation.” *Econometrica* 5 (2): 147–159.
+
+Hülsmann, Jörg Guido. 2008. *The Ethics of Money Production*. Auburn, AL: Ludwig von Mises Institute.
+
+Keynes, John Maynard. 1936. *The General Theory of Employment, Interest and Money*. London: Macmillan.
+
+Krugman, Paul. 2013. Various works on monetary policy and liquidity traps.
+
+Mankiw, N. Gregory. 2019. *Macroeconomics*. 9th ed. New York: Worth Publishers.
+
+Mises, Ludwig von. 1949. *Human Action: A Treatise on Economics*. Auburn, AL: Ludwig von Mises Institute.
+
+Pfleiderer, Otto. 1979. “The German Monetary Reform of 1948.” In *The German Inflation Reconsidered*.
+
+Quinby, John. 2026a. *The Fiat Stratification Feedback Model: A Unified Framework of Fractional Reserve Lending, Cantillon Distribution, Tax Incentives, and K-Shaped Polarization*. Preprint.
+
+Quinby, John. 2026b. *The Bitcoin Dismantlement Framework: Neutralizing Fractional Reserve Lending, Cantillon Effects, K-Shaped Polarization, and Tax Incentives*. Preprint.
+
+Rothbard, Murray N. 1963. *Man, Economy, and State*. Princeton, NJ: D. Van Nostrand.
+
+Samuelson, Paul A. 1948. *Economics: An Introductory Analysis*. New York: McGraw-Hill.
