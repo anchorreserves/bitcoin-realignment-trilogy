@@ -2,7 +2,7 @@
 **Full open-access edition**
 by **John N Quinby**
 
-**Published by Anchor Reserves** — an educational publisher specializing in macroeconomic frameworks and treasury benchmarks. The Realignment Trilogy provides the foundational academic framework for Anchor Reserves’ treasury benchmarks and dual-reserve methodology.
+**Published by Anchor Reserves**, an educational publisher specializing in macroeconomic frameworks and treasury benchmarks. The Realignment Trilogy provides the foundational academic framework for Anchor Reserves’ treasury benchmarks and dual-reserve methodology.
 
 A unified Bitcoin-native economic framework that exposes the structural mechanisms of fiat monetary stratification and demonstrates how Bitcoin’s protocol systematically dismantles them — rendering Keynesian demand-management tools obsolete at scale.
 
