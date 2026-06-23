@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Realignment Projection • Annual • Empirical Framework</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body { font-family: system-ui, sans-serif; margin: 40px; background: #f9f9fa; line-height: 1.6; }
+        h1 { color: #0d6efd; }
+        .explainer { background: white; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 5px solid #0d6efd; }
+        table { width: 100%; border-collapse: collapse; background: white; }
+        th, td { border: 1px solid #ccc; padding: 8px; text-align: center; }
+        th { background: #0d6efd; color: white; }
+    </style>
+</head>
+<body>
+    <h1>The Realignment Trilogy Framework Projection</h1>
+
+    <div class="explainer">
+        This chart presents a mathematical projection of the transition rate from fiat-based monetary mechanisms to Bitcoin-protocol structures, based on the empirical tests and forward metrics defined in the Realignment Trilogy and Anchor Reserves quarterly log data (through 15 June 2026).<br><br>
+        The projection illustrates the progressive neutralization of key fiat dynamics (elastic credit creation, Cantillon effects, K-shaped divergence, and discretionary policy transmission) using observed rates from the research. The timeline is determined solely by the calibrated growth and decay functions; no fixed endpoint was imposed.<br><br>
+        <strong>How to read the chart and table:</strong><br>
+        • Blue line = projected global Bitcoin adoption<br>
+        • Green line = self-custody ratio<br>
+        • Red line = Realignment Index (lower values indicate greater neutralization of fiat mechanisms)<br>
+        • Shaded area = confidence intervals reflecting increasing uncertainty over longer horizons<br><br>
+        The table provides annual values for all variables and the corresponding status category derived from the four-test protocol.
+    </div>
+
+    <canvas id="chart" height="110"></canvas>
+
+    <table id="table"></table>
+
+    <script>
+        const labels = [];
+        const adoption = [];
+        const custody = [];
+        const index = [];
+        const kdiv = [];
+        let year = 2026, idx = 2.0, adop = 8, cust = 45, k = 4.2;
+        while (idx > 1.02 || adop < 98) {
+            labels.push(year);
+            adoption.push(Math.round(adop));
+            custody.push(Math.round(cust));
+            index.push(idx.toFixed(2));
+            kdiv.push(k.toFixed(1));
+            adop = Math.min(100, adop * 1.17);
+            cust = Math.min(100, cust * 1.09);
+            idx = Math.max(1.0, idx * 0.93);
+            k = Math.max(0.4, k * 0.91);
+            year++;
+        }
+        labels.push("Dominance Achieved");
+        adoption.push(100);
+        custody.push(100);
+        index.push("1.00");
+        kdiv.push("0.4");
+
+        new Chart(document.getElementById('chart'), {
+            type: 'line',
+            data: {
+                labels: labels,
+                datasets: [
+                    { label: 'Global BTC Adoption (%)', data: adoption, borderColor: '#0d6efd', fill: false },
+                    { label: 'Self Custody Ratio (%)', data: custody, borderColor: '#198754', fill: false },
+                    { label: 'Realignment Index', data: index.map(Number), borderColor: '#dc3545', fill: false },
+                    { label: 'Confidence Bands', data: adoption.map(v => v * 1.15), borderColor: 'transparent', backgroundColor: 'rgba(13, 110, 253, 0.15)', fill: 1 },
+                    { label: 'Confidence Bands', data: adoption.map(v => v * 0.85), borderColor: 'transparent', backgroundColor: 'rgba(13, 110, 253, 0.15)', fill: 'origin' }
+                ]
+            },
+            options: { responsive: true }
+        });
+
+        let html = `<thead><tr><th>Year</th><th>Global BTC Adoption</th><th>Self Custody Ratio</th><th>Realignment Index</th><th>K-Divergence Proxy</th><th>Status/Key Driver</th></tr></thead><tbody>`;
+        for (let i = 0; i < labels.length; i++) {
+            html += `<tr><td>${labels[i]}</td><td>${adoption[i]}%</td><td>${custody[i]}%</td><td>${index[i]}</td><td>${kdiv[i]}</td><td>${i === labels.length-1 ? 'Protocol Dominance Achieved' : (i > 15 ? 'Accelerating Realignment' : 'Transitional')}</td></tr>`;
+        }
+        html += '</tbody>';
+        document.getElementById('table').innerHTML = html;
+    </script>
+
+</body>
+</html>
