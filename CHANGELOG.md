@@ -2,9 +2,25 @@
 
 All notable changes to the Realignment Trilogy and its quarterly empirical appendix.
 
-## [Unreleased] – Next Quarterly Update (15 September 2026)
-- Add Q3 2026 empirical results to `appendix-quarterly-empirical-log.md` and the Excel log
+## [Unreleased] – Next Quarterly Update (15 December 2026)
+- Add Q4 2026 empirical results to `appendix-quarterly-empirical-log.md` and the Excel log
 - Papers remain unchanged unless the author explicitly revises them
+
+## [v1.3] – 29 September 2026 (Q3 2026 empirical refresh — DRAFT)
+Empirical files only. The three papers (markdown and PDF) are unchanged. **Draft for author review — not yet published to GitHub main or Zenodo.**
+
+- Added Q3 2026 (log date 15 September 2026) observation row across Dashboard, A.1–A.4, Schedule
+  - US M2 updated to **$23.34 T** (FRED `M2SL` Aug 2026 = 23,342.8; retrieved 2026-09-29 America/Chicago)
+  - Fed balance-sheet % of GDP for the **new Q3 row only** = **20.7**, using Methods recipe `(WALCL in billions)/GDP × 100` with last Wednesday WALCL in 2026:Q2 = 2026-06-24 (6,735,645 $M) and GDP 2026:Q2 = 32,486.066. Historical BS%GDP cells including Q2 21.8 **not rewritten**
+  - Broad-money multiplier stores qualitative **elastic** only (FRED `MULT` discontinued). Methods candidate `M2SL/BOGMBASE` Aug 2026 ≈ 4.31 documented only — not a silent replacement for the historical numeric path
+  - Top 1 % = **32.5** (Fed DFA / FRED `WFRBST01134` 2026:Q2; vintage release **18 September 2026**). Historical A.2/A.4 top-1 % path refreshed to the same vintage (30.2 in 2023:Q4 → 32.5 in 2026:Q2); A.2 and A.4 remain matched on every date. Concentration has **not** narrowed
+  - BTC full-reserve lending **$85 B / 71 %**, global adoption **~8.8 %**, self-custody **50 %**, and K-divergence proxy **+4.0 %** carried with explicit **not-refreshed** notes (Glassnode Studio login required; Chainalysis 2026 Global Crypto Adoption Index of 23 Sep 2026 is country ranks without a global population %)
+  - DeFiLlama free-API lending TVL ≈ $54.7 B recorded as cross-check only (not equated to Glassnode $85 B)
+  - Wealth Gini 0.86 retained; still not a DFA field; gap flagged
+- Realignment Index remains **2.0** (all four tests Transitional). Schedule ~9 % adoption milestone **unassessable** without a primary adoption refresh
+- Regenerated `appendix-quarterly-empirical-log.md` from the Q3 Excel
+- Workbook Methods/CHANGELOG sheets updated; Dashboard sparklines restored from John’s 2026-08-24 sparkline source and extended to A.4 rows through Q3 (`C2:C12` / `D2:D12` on K24/L24)
+- Excel filename recommendation: `Realignment_Trilogy_Quarterly_Log_Q3_2026.xlsx` (replaces in-repo `…_Q2_2026_Updated.xlsx` on publish)
 
 ## [v1.2] – 28 August 2026 (Q2 2026 Fed-aligned empirical correction)
 Empirical files only. The three papers (markdown and PDF) are unchanged.
