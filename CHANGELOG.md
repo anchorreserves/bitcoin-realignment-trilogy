@@ -6,8 +6,8 @@ All notable changes to the Realignment Trilogy and its quarterly empirical appen
 - Add Q4 2026 empirical results to `appendix-quarterly-empirical-log.md` and the Excel log
 - Papers remain unchanged unless the author explicitly revises them
 
-## [v1.3] – 29 September 2026 (Q3 2026 empirical refresh — DRAFT)
-Empirical files only. The three papers (markdown and PDF) are unchanged. **Draft for author review — not yet published to GitHub main or Zenodo.**
+## [v1.3] – 29 September 2026 (Q3 2026 empirical refresh)
+Empirical files only. The three papers (markdown and PDF) are unchanged. Published to GitHub main (merged via PR #2, 2026-09-29, commit 5e4f3f68) and Zenodo (DOI 10.5281/zenodo.23047828, published 2026-09-29).
 
 - Added Q3 2026 (log date 15 September 2026) observation row across Dashboard, A.1–A.4, Schedule
   - US M2 updated to **$23.34 T** (FRED `M2SL` Aug 2026 = 23,342.8; retrieved 2026-09-29 America/Chicago)
